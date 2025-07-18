@@ -1,0 +1,61 @@
+Option Number,Option Name,Option Description,Building Phase Code,Product Name,Product Code,Product Description,Quantity,Use,Dependent Condition,Unit,Source,Style Name
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_101,,-----,10101,-----,,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_102,,-----,10102,-----,PL_Opt_RT,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_103,,-----,10103,-----,(PL_Opt_RT),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_104,,-----,10104,-----,((PL_Opt_RT)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_105,,-----,10105,-----,PL_Opt_Condition_1 and PL_Opt_Condition_2,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_106,,-----,10106,-----,not PL_Opt_Condition_1,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_107,,-----,10107,-----,not (PL_Opt_Condition_1 or (PL_Opt_Condition_2 or PL_Opt_Condition_3)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_108,,-----,10108,-----,( not ((PL_Opt_Condition_1 or PL_Opt_Condition_2) or PL_Opt_Condition_3)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_109,,-----,10109,-----,not ABCXYZ,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_110,,-----,10110,-----,PL_Opt_RT_2 or PL_Opt_RT_3,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_111,,-----,10111,-----,PL_Opt_RT_2,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_112,,-----,10112,-----,not (PL_Opt_RT_2 or PL_Opt_RT_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_113,,-----,10113,-----,not (PL_Opt_RT_2 or (PL_Opt_RT_3 or PL_Opt_RT_4)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_114,,-----,10114,-----,PL_Opt_Condition_2 and PL_Opt_RT_2,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_115,,-----,10115,-----,PL_Opt_Condition_2 or PL_Opt_RT_2,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_116,,-----,10116,-----,PL_Opt_Condition_1 and (not PL_Opt_Condition_2),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_117,,-----,10117,-----,PL_Opt_Condition_1 or (not PL_Opt_Condition_2),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_118,,-----,10118,-----,not (PL_Opt_RT_2 or PL_Opt_Condition_2),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_119,,-----,10119,-----,not (PL_Opt_Condition_2 or PL_Opt_RT_2),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_120,,-----,10120,-----,not (PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_RT_2),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_121,,-----,10121,-----,not ((PL_Opt_RT_2 or PL_Opt_Condition_1) or PL_Opt_Condition_2),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_122,,-----,10122,-----,not (PL_Opt_RT_2 or (PL_Opt_Condition_2 or PL_Opt_Condition_1)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_123,,-----,10123,-----,not ((PL_Opt_Condition_1 or PL_Opt_RT) and not (PL_Opt_RT or PL_Opt_Condition_2)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_124,,-----,10124,-----,(not (PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3 or ABCXYZ)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_125,,-----,10125,-----,PL_Opt_RT_2 and (PL_Opt_Condition_2 or PL_Opt_RT_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_126,,-----,10126,-----,(PL_Opt_RT or PL_Opt_Condition_1) and PL_Opt_RT_2 and not PL_Opt_RT_3,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_127,,-----,10127,-----,PL_Opt_RT_2 and (PL_Opt_Condition_1 or (PL_Opt_RT_3 and not PL_Opt_Condition_2)),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_128,,-----,10128,-----,PL_Opt_Condition_1 and PL_Opt_Condition_2 and PL_Opt_Condition_3 and PL_Opt_RT,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_129,,-----,10129,-----,PL_Opt_Condition_1 or PL_Opt_RT_2 and not (PL_Opt_Condition_2 or PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_130,,-----,10130,-----,( not ((PL_Opt_Condition_1 or PL_Opt_Condition_2) or (PL_Opt_Condition_3 or PL_Opt_Condition_4))),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_131,,-----,10131,-----,PL_Opt_Condition_1 and not PL_Opt_RT_2 or PL_Opt_RT_3 and not PL_Opt_Condition_2,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_132,,-----,10132,-----,(PL_Opt_RT_2 or PL_Opt_Condition_2) and (PL_Opt_RT_3 or PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_133,,-----,10133,-----,(PL_Opt_RT_2 or PL_Opt_Condition_2) and not (PL_Opt_RT_3 or PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_134,,-----,10134,-----,PL_Opt_RT_2 and not PL_Opt_Condition_1 and PL_Opt_Condition_2 or not PL_Opt_Condition_3,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_135,,-----,10135,-----,PL_Opt_RT_2 or not PL_Opt_Condition_1 or not PL_Opt_Condition_2,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_136,,-----,10136,-----,PL_Opt_RT_2 and   not PL_Opt_Condition_1 and not    PL_Opt_Condition_2 and     not      PL_Opt_Condition_3,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_137,,-----,10137,-----,nOT    (    PL_Opt_Condition_1 Or PL_Opt_Condition_2 or PL_Opt_Condition_3    ),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_138,,-----,10138,-----,(PL_Opt_RT_2)     Or (PL_Opt_Condition_2 and PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_139,,-----,10139,-----,PL_Opt_RT_2 and   nOt(PL_Opt_Condition_1) aNd(   not    PL_Opt_Condition_2 and not     PL_Opt_Condition_3   )    AND (    PL_Opt_RT_2    and    PL_Opt_RT_3    anD    PL_Opt_RT_4   ),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_140,,-----,10140,-----,    Not (    PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3    )   ,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_141,,-----,10141,-----,PL_Opt_RT_2 or PL_Opt_Condition_2 and PL_Opt_Condition_3,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_142,,-----,10142,-----,(PL_Opt_RT_2 or PL_Opt_Condition_2) and PL_Opt_Condition_3,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_143,,-----,10143,-----,PL_Opt_RT_2 and   not(PL_Opt_Condition_1)and(   not    PL_Opt_Condition_2 and not     PL_Opt_Condition_3   )    and (    PL_Opt_RT_2    and    PL_Opt_RT_3    and    PL_Opt_RT_4   ),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_144,,-----,10144,-----,    not(    PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3    )   ,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_145,,-----,10145,-----,(PL_Opt_RT_2)or(PL_Opt_Condition_2 and PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_146,,-----,10146,-----,PL_Opt_RT_2 and (PL_Opt_Condition_2 or PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_147,,-----,10147,-----,PL_Opt_RT and PL_Opt_RT_2 and PL_Opt_RT_3 and PL_Opt_RT_4,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_148,,-----,10148,-----,PL_Opt_RT_2 and not (PL_Opt_RT_3 or PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_149,,-----,10149,-----,PL_Opt_RT_2 and not (PL_Opt_Condition_2 or PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_150,,-----,10150,-----,PL_Opt_RT_2 or (PL_Opt_Condition_2 and PL_Opt_Condition_3),-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_151,,-----,10151,-----,not PL_Opt_Condition_1 not PL_Opt_RT_1,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_152,,-----,10152,-----,PL_Opt_Not_RT_6,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_153,,-----,10153,-----,Not_PL_Opt_RT_6,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_154,,-----,10154,-----,PL_Opt_RT_6_Not,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_155,,-----,10155,-----,PL_Opt_And_RT_7,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_156,,-----,10156,-----,And_PL_Opt_RT_7,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_157,,-----,10157,-----,PL_Opt_RT_7_And,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_158,,-----,10158,-----,PL_Opt_Or_RT_8,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_159,,-----,10159,-----,Or_PL_Opt_RT_8,-----,Planswift,DEFAULT
+4644,PL_Opt_RT_3,,24,PL_Product_Condition_160,,-----,10160,-----,PL_Opt_RT_8_Or,-----,Planswift,DEFAULT

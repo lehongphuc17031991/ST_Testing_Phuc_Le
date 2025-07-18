@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="Bluebeam">
+  <housecode>1703</housecode>
+  <housename>Tommy_House_RT_DO_NOT_MODIFY</housename>
+  <communitycode></communitycode>
+  <communityname>Default House Quantities</communityname>
+  <series>Diamond</series>
+  <option code="PL_Opt_RT_2" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Child_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>11.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+        <parameters>
+          <parameter id="LEVEL" value="1st" />
+        </parameters>
+      </product>
+      <product name="PL_Product_Supplemental_Bed-2-person">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>9.0000</product_qnt>
+        <product_use>ABCD</product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+        <parameters>
+          <parameter id="LEVEL" value="5th" />
+        </parameters>
+      </product>
+      <product name="PL_Product_Supplemental_Bed-2-person">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>19.0000</product_qnt>
+        <product_use>ABCD</product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+        <parameters>
+          <parameter id="LEVEL" value="4th" />
+        </parameters>
+      </product>
+      <product name="PL_Product_Supplemental_Bed-2-person">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>29.0000</product_qnt>
+        <product_use>PPractice_Use</product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+        <parameters>
+          <parameter id="LEVEL" value="4th" />
+        </parameters>
+      </product>
+	  <product name="PL_Product_8_BOM_BPR_Parent">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>88</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>28</phase_code>
+        <group_code></group_code>
+        <parameters>
+          <parameter id="LEVEL" value="8th" />
+        </parameters>
+      </product>
+	  <product name="PL_Product_8_Assume_BP_Parent">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>98</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code></phase_code>
+        <group_code></group_code>
+        <parameters>
+          <parameter id="LEVEL" value="8th" />
+        </parameters>
+      </product>
+	  <product name="PL_Product_8_Assume_BP_Parent">
+        <product_code></product_code>
+        <product_description>DOES NOT SWITCH SUB</product_description>
+        <product_qnt>111</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>28</phase_code>
+        <group_code></group_code>
+        <parameters>
+          <parameter id="LEVEL" value="8th" />
+        </parameters>
+      </product>
+    </products>
+  </option>
+</plusminus>

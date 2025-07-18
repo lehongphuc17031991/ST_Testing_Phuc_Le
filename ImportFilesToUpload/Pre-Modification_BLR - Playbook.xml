@@ -1,0 +1,1833 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="Playbook">
+  <housecode>1703</housecode>
+  <housename>Tommy_House_RT_DO_NOT_MODIFY</housename>
+  <communitycode></communitycode>
+  <communityname>Default House Quantities</communityname>
+  <series>Group</series>
+  <option code="PL_Opt_RT" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Child">
+        <product_code></product_code>
+        <product_description>Khac product_unit 1</product_description>
+        <product_qnt>71.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_1" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1001</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_2" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1002</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_3" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1003</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_4" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1004</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_5" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1005</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_6" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1006</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_7" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_7_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1007</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_8" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1008</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_9" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1009</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_10" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1010</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_11" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1011</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_12" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1012</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_13" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1013</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_14" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1014</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_15" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1015</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_16_All_3" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1016</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_18" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1018</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_19" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1019</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_20" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1020</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_21" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1021</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_22" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1022</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_New_BPBA_TC_22" description="" condition="PL_Opt_BLR_Original_TC_22">
+    <products>
+      <product name="PL_Product_BLR_TC_22_B">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>22</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_23" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1023</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_24" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_24_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1024</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_25" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1025</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_26" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1026</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_27" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1027</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_28" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1028</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_New_1_TC_28" description="" condition="PL_Opt_BLR_Original_TC_28">
+    <products>
+      <product name="PL_Product_BLR_TC_28_A_Act_Sub_Act">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>128</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_New_BPBA_TC_28" description="" condition="PL_Opt_BLR_Original_TC_28">
+    <products>
+	  <product name="PL_Product_BLR_TC_28_B">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1288</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_29" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1029</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_30" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_30_A_Con_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1030.1</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_30_A_Con_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1030.2</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_30_A_Con_3">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1030.3</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_31" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_31_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1031</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_32" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1032</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_33" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1033</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+   
+    
+  <option code="PL_Opt_BLR_Original_TC_35" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_35_A_Con_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1035.11</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_35_A_Con_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1035.22</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_35_A_Con_3">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1035.33</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+	  <product name="PL_Product_BLR_TC_35_House_Qty">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>135</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+	  <product name="PL_Product_BLR_TC_35_B">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>235</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_36" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1036</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_37" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_37_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1037</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_38" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_38_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1038</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+	  <product name="PL_Product_BLR_TC_38_House_Qty">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>138</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+	  <product name="PL_Product_BLR_TC_38_B">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>418</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_39" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1039</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_40" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_40_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1040</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_41" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_41_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1041</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_42" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1042</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_43" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_43_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1043</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_44" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_44_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1044.1</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_A" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_44_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1044.2</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_44_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1044.3</product_qnt>
+        <product_use>BLR_Use_2</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_52" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1052</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_53" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1053</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_54" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1054</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_55" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1055</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_56" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1056</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_57" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_57_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1057</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_60" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_60_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1060.1</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_A" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_60_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1060.2</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_60_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1060.3</product_qnt>
+        <product_use>BLR_Use_2</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  
+  
+  
+  <option code="PL_Opt_BLR_Original_TC_61" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1061</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_62" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1062</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_63" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1063</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_81" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1081</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_82" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1082</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_83" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1083</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_84" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1084</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_85" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1085</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_86" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1086</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_87" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1087</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_88" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1088</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_89" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1089</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_90" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1090</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_91" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1091</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_92" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1092</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_93" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1093</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer="PL_Manufacturer">PL_Style</style>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_94" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1094</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_95" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1095</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_96" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1096</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer="PL_Manufacturer">PL_Style</style>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_97" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1097</product_qnt>
+        <product_use>Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer="PL_Manufacturer">PL_Style</style>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_98" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1098</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_99" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1099</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_99_A_Act_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>99</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_100" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1100</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option><option code="PL_Opt_BLR_New_1_TC_100" description="" condition="">
+    <products>
+	  <product name="PL_Product_BLR_TC_100_A_Act">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>100</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>24</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_101" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_101_A_Con_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1101.1</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_101_A_Con_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1101.2</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_New_1_TC_101" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_101_A_Act_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>101</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_102" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1102</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_103" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1103</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_104" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1104</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_105" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_105_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1105</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_108" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_108_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1108.1</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_A" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_108_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1108.2</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_108_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1108.3</product_qnt>
+        <product_use>BLR_Use_2</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_109" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_109_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1109.1</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_A" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_109_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1109.2</product_qnt>
+        <product_use>BLR_Use_1</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_BLR_TC_109_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1109.3</product_qnt>
+        <product_use>BLR_Use_2</product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR_B" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_110" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_110_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1110</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BLR_Original_TC_111" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_111_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1111</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_112" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_TC_112_A_Con_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1112.1</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_112_A_Con_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1112.2</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_112_A_Con_3">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1112.3</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_112_A_Con_4">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1112.4</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_112_A_Act_Act_3">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>52</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_112_B">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>62</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_112_B_Rev">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>72</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_113" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1113</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_113_A_Con_3">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1113.3</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_113_A_Con_4">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1113.4</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+      <product name="PL_Product_BLR_TC_113_A_Act_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>33</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+      </product>
+    </products>
+  </option>
+  
+  <option code="PL_Opt_BLR_Original_TC_114" description="" condition="">
+    <products>
+      <product name="PL_Product_BLR_A_Con">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>1114</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+      <product name="PL_Product_BLR_TC_114_A_Act_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>14</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code>25</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="BLR" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+</plusminus>

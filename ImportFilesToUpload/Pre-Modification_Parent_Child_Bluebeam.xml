@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="Bluebeam">
+  <housecode>1703</housecode>
+  <housename>Tommy_House_RT_DO_NOT_MODIFY</housename>
+  <communitycode></communitycode>
+  <communityname>Default House Quantities</communityname>
+  <series>Diamond</series>
+  <option code="PL_Opt_Parent" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Parent">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>51</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code></phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="FAMILY" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Belong_Parent_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>52</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code></phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="FAMILY" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Child_1" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Parent">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>-5</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code></phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="FAMILY" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Belong_Child_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>61</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code></phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="FAMILY" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Child_2" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Parent">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>7</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code></phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="FAMILY" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Belong_Child_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>62</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <phase_code></phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="FAMILY" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+</plusminus>

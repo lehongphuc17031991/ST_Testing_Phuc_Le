@@ -1,0 +1,16 @@
+Building Phase Code,Product Name,Category Name,Description,SKU,Notes,Manufacturer,Style,Code,Unit,Waste,Rounding Unit,Rounding Direction,Default Building Phase,Tax Status,Supplemental to Bid,Projected Cost,Reverse Product
+24,PL_Product_Orientation_1_From,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_Orientation_1_To
+24,PL_Product_Belong_Child_821_Orient_From,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_Belong_Child_821_Orient_To
+24,PL_Product_BLR_TC_42_A_Act,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_42_A_Act_Rev
+24,PL_Product_BLR_TC_43_A_Con,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_43_A_Con_Rev
+24,PL_Product_BLR_TC_43_A_Act_Act_Sub,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_43_A_Act_Act_Sub_Rev
+24,PL_Product_BLR_TC_43_A_Act_Act_Sub_Act_1,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_43_A_Act_Act_Sub_Act_Rev_1
+24,PL_Product_BLR_TC_43_A_Act_Act_Sub_Act_2,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_43_A_Act_Act_Sub_Act_Rev_2
+24,PL_Product_BLR_TC_51_A_Act,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_51_A_Act_Rev
+24,PL_Product_BLR_TC_110_A_Act,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_110_A_Act_Rev
+24,PL_Product_BLR_TC_111_A_Act,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_111_A_Act_Rev
+24,PL_Product_BLR_TC_112_A_Act_1,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_112_A_Act_Rev_1
+24,PL_Product_BLR_TC_112_A_Act_4_2,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_112_A_Act_Rev_4_2
+24,PL_Product_BLR_TC_112_A_Act_Act_Act_Act_3_1,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_112_A_Act_Act_Act_Act_Rev_3_1
+24,PL_Product_BLR_TC_113_A_Act_SS_Sub_SS_2,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_113_A_Act_SS_Sub_SS_Rev_2
+24,PL_Product_BLR_TC_113_A_Act_4,,,,,PL_Manufacturer,PL_Style,,EA,0,,STANDARD,default,Phase,FALSE,0,PL_Product_BLR_TC_113_A_Act_Rev_4

@@ -1,0 +1,5 @@
+Option Number,Option Name,Option Description,Building Phase Code,Product Name,Product Code,Product Description,Quantity,Use,Dependent Condition,Unit,Source,Style Name
+4639,PL_Opt_Global_Test,,24,PL_Product_Condition_303,,-----,303,-----,(PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3),,Bluebeam,DEFAULT
+4639,PL_Opt_Global_Test,,24,PL_Product_Condition_304,,-----,304,-----,not (PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3),,Bluebeam,DEFAULT
+4639,PL_Opt_Global_Test,,25,PL_Product_9,,-----,301,-----,,,Bluebeam,DEFAULT
+4639,PL_Opt_Global_Test,,25,PL_Product_9,,-----,8,-----,,,Bluebeam,GENERIC

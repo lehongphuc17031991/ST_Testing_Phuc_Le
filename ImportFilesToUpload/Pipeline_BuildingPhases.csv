@@ -1,0 +1,9 @@
+Building Group Code,Building Group Name,Building Group Description,Building Phase Code,Building Phase Name,Building Phase  Abbreviated Name,Building Phase Description,Building Phase Type,Building Phase Parent,Tax Status
+18,Ppractice_Exterior_BuildGr,Building Group for Exterior,28,PL_BuildPhase_Garage_28_BBPR_Original_Product_BP,,,,,Non-tax
+18,Ppractice_Exterior_BuildGr,Building Group for Exterior,30,PL_BuildPhase_Garage_30_BBPR_New_Sub_BP,,,,,Non-tax
+19,Ppractice_Interior_BuildGr,Building Group for Interior,26,PL_BuildPhase_Garage_26,,,,,Non-tax
+19,Ppractice_Interior_BuildGr,Building Group for Interior,29,PL_BuildPhase_Garage_29_BBPR_Original_Sub_BP,,,,,Non-tax
+24,PL_BuildGrp_Interior,,24,PL_BuildPhase_Garage,,,,,Non-tax
+24,PL_BuildGrp_Interior,,25,PL_BuildPhase_Bid_Bedroom,,,,,Non-tax
+24,PL_BuildGrp_Interior,,27,PL_BuildPhase_BID_Supplemental_Qualifier_27,,,,,Non-tax
+24,PL_BuildGrp_Interior,,31,PL_BuildPhase_Defected_Subcomponent,,,,,Non-tax

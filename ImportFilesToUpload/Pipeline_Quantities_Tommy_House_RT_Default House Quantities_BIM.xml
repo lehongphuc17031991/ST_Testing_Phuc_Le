@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="BIM">
+  <housecode>1703</housecode>
+  <housename>Tommy_House_RT_DO_NOT_MODIFY</housename>
+  <communitycode></communitycode>
+  <communityname>Default House Quantities</communityname>
+  <series>Diamond</series>  
+  <option code="BASE" description="Base House" condition="">
+    <products>
+      <product name="PL_Product_Sand">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>21.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer="Armstrong">1000</style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+		<parameters>
+			<parameter id="LEVEL" value="abc" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Sand">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>71.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_BASE" description="" condition="">
+    <products>
+	  <product name="PL_Product_Sand_KM_2_Layers">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>31.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer="Armstrong">1000</style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+		<parameters>
+			<parameter id="LEVEL" value="opt-base" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Sand_Subcomponent_Layer_2_Waste_Round">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>-14.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <phase_code>24</phase_code>
+        <group_code></group_code>
+		<parameters>
+			<parameter id="LEVEL" value="negative" />
+		</parameters>
+      </product>
+    </products>
+  </option>  
+  <option code="PL_Opt_Sub_1_Layer" description="" condition="">
+    <products>
+	  <product name="PL_Product_Cabinet">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>72.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  
+  
+  
+  
+  <option code="PL_Opt_RT" description="" condition="">
+    <products>
+      <product name="PL_Product_Sand_With_Calculation_In_Garage_Subcomponent">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>22.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+		<parameters>
+			<parameter id="LEVEL" value="abc" />
+		</parameters>
+      </product>	
+	  <product name="PL_Product_Sum_0_Qty">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>-9.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>    
+  <option code="PL_Opt_RT_3" description="" condition="">
+    <products>
+      <product name="PL_Product_Sand_Subcomponent_Layer_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>32.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+		<parameters>
+			<parameter id="LEVEL" value="opt-base" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Sum_0_Qty">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>0.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+      </product>
+	  
+	  
+	  
+	  
+	  
+      <product name="PL_Product_Archive_3_1_House">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>81.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+      </product>
+      <product name="PL_Product_Archive_3_2_House">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>82.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+      </product>
+      <product name="PL_Product_Archive_3_3_House">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>83.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Archive_2_House" description="" condition="">
+    <products>
+      <product name="PL_Product_Archive_2_1_House">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>91.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+      </product>
+      <product name="PL_Product_Archive_2_2_House">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>92.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+      </product>
+    </products>
+  </option>  
+  
+  
+  
+  
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT">
+    <products>
+	  <product name="PL_Product_Sand_Subcomponent_Layer_2_Waste_Round">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>23.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+		<parameters>
+			<parameter id="LEVEL" value="abc" />
+		</parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_4" description="" condition="PL_Opt_RT_3">
+    <products>
+      <product name="PL_Product_Sand_Subcomponent_Layer_2_Waste_Round">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>33.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+		<parameters>
+			<parameter id="LEVEL" value="opt-base" />
+		</parameters>
+      </product>
+	  <product name="PL_Product_Belong_Child_817_KM_SpecSet_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>34.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+	  <product name="PL_Product_Orientation_1_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>35.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+	  <product name="PL_Product_SpecSets_1_Layer_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>36.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>  
+  
+  
+  
+  
+  <option code="PL_Opt_RT_4" description="" condition="">
+    <products>
+      <product name="PL_Product_Supplemental_Bed-2-person">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>41.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>25</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+	  
+	  
+	  
+      <product name="PL_Product_Supplemental_BID">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>42.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer="GENERIC">BID</style>
+        <phase_code>27</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_Supplemental_BID_Following_1">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>11.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>27</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_Supplemental_BID_Following_2">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>12.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>27</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_Supplemental_BID_Following_3_No_Supp">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>16.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>27</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+	  
+	  
+	  <product name="PL_Product_Job_Orientation_1_L">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>111.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+	  <product name="PL_Product_Job_Orientation_2_L">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>112.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste></product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>  
+	
+  
+  
+  
+  <option code="PL_Opt_RT_2" description="" condition="">
+    <products>
+	  <product name="PL_Product_Belong_Child_3_House_Opt_Comm_Qty">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>4.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>	
+  <option code="PL_Opt_Global_Test" description="" condition="">
+    <products>
+	  <product name="PL_Product_Belong_Child_61">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>61.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+	  <product name="PL_Product_Belong_Child_62">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>62.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+</plusminus>

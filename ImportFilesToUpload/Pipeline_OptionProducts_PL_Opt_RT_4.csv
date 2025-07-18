@@ -1,0 +1,46 @@
+Option Number,Option Name,Option Description,Building Phase Code,Product Name,Product Code,Product Description,Quantity,Use,Dependent Condition,Unit,Source,Style Name
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_201,,-----,10201,-----,or ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_202,,-----,10202,-----,ABC or,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_203,,-----,10203,-----,or not ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_204,,-----,10204,-----,or ABC not,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_205,,-----,10205,-----,and ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_206,,-----,10206,-----,ABC and,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_207,,-----,10207,-----,ABC and (not),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_208,,-----,10208,-----,ABC or (not),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_209,,-----,10209,-----,and not ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_210,,-----,10210,-----,and ABC not,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_211,,-----,10211,-----,not or ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_212,,-----,10212,-----,not and ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_213,,-----,10213,-----,not ABC or,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_214,,-----,10214,-----,not ABC and,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_215,,-----,10215,-----,and,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_216,,-----,10216,-----,not,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_217,,-----,10217,-----,    PL_Opt_Condition_1   PL_Opt_RT_1    ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_218,,-----,10218,-----,     or (    PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3    )     ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_219,,-----,10219,-----,ABC and (not PL_Opt_Condition_1,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_220,,-----,10220,-----,(ABC or PL_Opt_RT) or ABC),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_221,,-----,10221,-----,PL_Opt_Condition_1 or PL_Opt_RT_2) and not (PL_Opt_Condition_2 or PL_Opt_Condition_3),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_222,,-----,10222,-----,(),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_223,,-----,10223,-----,)(,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_224,,-----,10224,-----,) () (PL_Opt_Condition_1),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_225,,-----,10225,-----,)PL_Opt_RT_1(,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_226,,-----,10226,-----,PL_Opt_RT_1 and (),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_227,,-----,10227,-----,BASE or PL_Opt_Condition_1,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_228,,-----,10228,-----,PL_Opt_BASE and not,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_229,,-----,10229,-----,or PL_Opt_BASE,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_230,,-----,10230,-----,ABC and )not        ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_231,,-----,10231,-----,and (    PL_Opt_Condition_1 or    )     ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_232,,-----,10232,-----,and (    PL_Opt_Condition_1 or PL_Opt_Condition_2 or     ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_233,,-----,10233,-----,    aNd     BASE     oR     (     NOT     PL_Opt_RT_1     aND     NOt   ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_234,,-----,10234,-----,PL_Opt_RT_1 and PL_Opt_Condition_1 ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_235,,-----,10235,-----,PL_Opt_RT_1 and PL_Opt_Condition_1 PL_Opt_RT_2 ABC ,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_236,,-----,10236,-----,not PL_Opt_RT_1 PL_Opt_Condition_1 or ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_237,,-----,10237,-----,PL_Opt_RT_1 - PL_Opt_Condition_1,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_238,,-----,10238,-----,(PL_Opt_RT_1 and PL_Opt_Condition_1) ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_239,,-----,10239,-----,PL_Opt_RT_1 and (PL_Opt_Condition_1 ABC),-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_240,,-----,10240,-----,PL_Opt_RT_1 and (PL_Opt_Condition_1 ABC) or,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_241,,-----,10241,-----,PL_Opt_RT_1 and or not PL_Opt_Condition_1 ABC,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_242,,-----,10242,-----,PL_Opt_RT_1 and and and PL_Opt_Condition_1,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_243,,-----,10243,-----,PL_Opt_RT_1 not or and PL_Opt_Condition_1,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_244,,-----,10244,-----,PL_Opt_RT_1 or or and PL_Opt_Condition_1 ABC XYZ PL_Opt_RT_2,-----,BIM,DEFAULT
+4648,PL_Opt_RT_4,,24,PL_Product_Condition_245,,-----,10245,-----,PL_Opt_Condition_1 (PL_Opt_Condition_2),-----,BIM,DEFAULT

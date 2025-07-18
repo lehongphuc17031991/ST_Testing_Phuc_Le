@@ -1,0 +1,3 @@
+Option Name,Dependent Condition,Mapped Option,Mapping Type,Houses
+PL_Opt_Additive_Mapping_From,,PL_Opt_Additive_Mapping_To,Additive,Tommy_House_RT_DO_NOT_MODIFY
+PL_Opt_Replacement_Mapping_From,PL_Opt_Bid_Bedroom,PL_Opt_Replacement_Mapping_To,Replacement,Tommy_House_RT_DO_NOT_MODIFY

@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="Pipeline">
+  <housecode>1903</housecode>
+  <housename>Tommy_House_Condition</housename>
+  <communitycode>1703</communitycode>
+  <communityname></communityname>
+  <series>1</series>
+  <option code="PL_Opt_RT" description="" condition="">
+    <products>
+      <product name="PL_Product_Condition_101">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>101.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT">
+    <products>
+      <product name="PL_Product_Condition_102">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>102.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT)">
+    <products>
+      <product name="PL_Product_Condition_103">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>103.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="((PL_Opt_RT))">
+    <products>
+      <product name="PL_Product_Condition_104">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>104.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_1 and PL_Opt_Condition_2">
+    <products>
+      <product name="PL_Product_Condition_105">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>105.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not PL_Opt_Condition_1">
+    <products>
+      <product name="PL_Product_Condition_106">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>106.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_Condition_1 or (PL_Opt_Condition_2 or PL_Opt_Condition_3))">
+    <products>
+      <product name="PL_Product_Condition_107">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>107.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="( not ((PL_Opt_Condition_1 or PL_Opt_Condition_2) or PL_Opt_Condition_3))">
+    <products>
+      <product name="PL_Product_Condition_108">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>108.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not ABCXYZ">
+    <products>
+      <product name="PL_Product_Condition_109">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>109.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 or PL_Opt_RT_3">
+    <products>
+      <product name="PL_Product_Condition_110">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>110.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2">
+    <products>
+      <product name="PL_Product_Condition_111">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>111.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_RT_2 or PL_Opt_RT_3)">
+    <products>
+      <product name="PL_Product_Condition_112">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>112.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_RT_2 or (PL_Opt_RT_3 or PL_Opt_RT_4))">
+    <products>
+      <product name="PL_Product_Condition_113">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>113.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_2 and PL_Opt_RT_2">
+    <products>
+      <product name="PL_Product_Condition_114">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>114.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_2 or PL_Opt_RT_2">
+    <products>
+      <product name="PL_Product_Condition_115">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>115.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_1 and (not PL_Opt_Condition_2)">
+    <products>
+      <product name="PL_Product_Condition_116">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>116.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_1 or (not PL_Opt_Condition_2)">
+    <products>
+      <product name="PL_Product_Condition_117">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>117.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_RT_2 or PL_Opt_Condition_2)">
+    <products>
+      <product name="PL_Product_Condition_118">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>118.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_Condition_2 or PL_Opt_RT_2)">
+    <products>
+      <product name="PL_Product_Condition_119">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>119.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_RT_2)">
+    <products>
+      <product name="PL_Product_Condition_120">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>120.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not ((PL_Opt_RT_2 or PL_Opt_Condition_1) or PL_Opt_Condition_2)">
+    <products>
+      <product name="PL_Product_Condition_121">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>121.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not (PL_Opt_RT_2 or (PL_Opt_Condition_2 or PL_Opt_Condition_1))">
+    <products>
+      <product name="PL_Product_Condition_122">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>122.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not ((PL_Opt_Condition_1 or PL_Opt_RT) and not (PL_Opt_RT or PL_Opt_Condition_2))">
+    <products>
+      <product name="PL_Product_Condition_123">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>123.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(not (PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3 or ABCXYZ))">
+    <products>
+      <product name="PL_Product_Condition_124">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>124.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and (PL_Opt_Condition_2 or PL_Opt_RT_3)">
+    <products>
+      <product name="PL_Product_Condition_125">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>125.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT or PL_Opt_Condition_1) and PL_Opt_RT_2 and not PL_Opt_RT_3">
+    <products>
+      <product name="PL_Product_Condition_126">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>126.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and (PL_Opt_Condition_1 or (PL_Opt_RT_3 and not PL_Opt_Condition_2))">
+    <products>
+      <product name="PL_Product_Condition_127">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>127.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_1 and PL_Opt_Condition_2 and PL_Opt_Condition_3 and PL_Opt_RT">
+    <products>
+      <product name="PL_Product_Condition_128">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>128.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_1 or PL_Opt_RT_2 and not (PL_Opt_Condition_2 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_129">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>129.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="( not ((PL_Opt_Condition_1 or PL_Opt_Condition_2) or (PL_Opt_Condition_3 or PL_Opt_Condition_4)))">
+    <products>
+      <product name="PL_Product_Condition_130">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>130.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Condition_1 and not PL_Opt_RT_2 or PL_Opt_RT_3 and not PL_Opt_Condition_2">
+    <products>
+      <product name="PL_Product_Condition_131">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>131.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT_2 or PL_Opt_Condition_2) and (PL_Opt_RT_3 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_132">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>132.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT_2 or PL_Opt_Condition_2) and not (PL_Opt_RT_3 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_133">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>133.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and not PL_Opt_Condition_1 and PL_Opt_Condition_2 or not PL_Opt_Condition_3">
+    <products>
+      <product name="PL_Product_Condition_134">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>134.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 or not PL_Opt_Condition_1 or not PL_Opt_Condition_2">
+    <products>
+      <product name="PL_Product_Condition_135">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>135.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and   not PL_Opt_Condition_1 and not    PL_Opt_Condition_2 and     not      PL_Opt_Condition_3">
+    <products>
+      <product name="PL_Product_Condition_136">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>136.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="nOT    (    PL_Opt_Condition_1 Or PL_Opt_Condition_2 or PL_Opt_Condition_3    )">
+    <products>
+      <product name="PL_Product_Condition_137">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>137.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT_2)     Or (PL_Opt_Condition_2 and PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_138">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>138.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and   nOt(PL_Opt_Condition_1) aNd(   not    PL_Opt_Condition_2 and not     PL_Opt_Condition_3   )    AND (    PL_Opt_RT_2    and    PL_Opt_RT_3    anD    PL_Opt_RT_4   )">
+    <products>
+      <product name="PL_Product_Condition_139">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>139.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="    Not (    PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3    )   ">
+    <products>
+      <product name="PL_Product_Condition_140">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>140.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 or PL_Opt_Condition_2 and PL_Opt_Condition_3">
+    <products>
+      <product name="PL_Product_Condition_141">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>141.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT_2 or PL_Opt_Condition_2) and PL_Opt_Condition_3">
+    <products>
+      <product name="PL_Product_Condition_142">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>142.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and   not(PL_Opt_Condition_1)and(   not    PL_Opt_Condition_2 and not     PL_Opt_Condition_3   )    and (    PL_Opt_RT_2    and    PL_Opt_RT_3    and    PL_Opt_RT_4   )">
+    <products>
+      <product name="PL_Product_Condition_143">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>143.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="    not(    PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3    )   ">
+    <products>
+      <product name="PL_Product_Condition_144">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>144.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="(PL_Opt_RT_2)or(PL_Opt_Condition_2 and PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_145">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>145.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and (PL_Opt_Condition_2 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_146">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>146.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT and PL_Opt_RT_2 and PL_Opt_RT_3 and PL_Opt_RT_4">
+    <products>
+      <product name="PL_Product_Condition_147">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>147.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and not (PL_Opt_RT_3 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_148">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>148.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 and not (PL_Opt_Condition_2 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_149">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>149.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_2 or (PL_Opt_Condition_2 and PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_150">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>150.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="not PL_Opt_Condition_1 not PL_Opt_RT_1">
+    <products>
+      <product name="PL_Product_Condition_151">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>151.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Not_RT_6">
+    <products>
+      <product name="PL_Product_Condition_152">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>152.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="Not_PL_Opt_RT_6">
+    <products>
+      <product name="PL_Product_Condition_153">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>153.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_6_Not">
+    <products>
+      <product name="PL_Product_Condition_154">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>154.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_And_RT_7">
+    <products>
+      <product name="PL_Product_Condition_155">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>155.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="And_PL_Opt_RT_7">
+    <products>
+      <product name="PL_Product_Condition_156">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>156.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_7_And">
+    <products>
+      <product name="PL_Product_Condition_157">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>157.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_Or_RT_8">
+    <products>
+      <product name="PL_Product_Condition_158">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>158.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="Or_PL_Opt_RT_8">
+    <products>
+      <product name="PL_Product_Condition_159">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>159.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="PL_Opt_RT_8_Or">
+    <products>
+      <product name="PL_Product_Condition_160">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>160.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="or ABC">
+    <products>
+      <product name="PL_Product_Condition_201">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>201.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="ABC or">
+    <products>
+      <product name="PL_Product_Condition_202">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>202.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="or not ABC">
+    <products>
+      <product name="PL_Product_Condition_203">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>203.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="or ABC not">
+    <products>
+      <product name="PL_Product_Condition_204">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>204.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="and ABC">
+    <products>
+      <product name="PL_Product_Condition_205">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>205.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="ABC and">
+    <products>
+      <product name="PL_Product_Condition_206">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>206.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="ABC and (not)">
+    <products>
+      <product name="PL_Product_Condition_207">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>207.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="ABC or (not)">
+    <products>
+      <product name="PL_Product_Condition_208">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>208.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="and not ABC">
+    <products>
+      <product name="PL_Product_Condition_209">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>209.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="and ABC not">
+    <products>
+      <product name="PL_Product_Condition_210">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>210.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="not or ABC">
+    <products>
+      <product name="PL_Product_Condition_211">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>211.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="not and ABC">
+    <products>
+      <product name="PL_Product_Condition_212">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>212.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="not ABC or">
+    <products>
+      <product name="PL_Product_Condition_213">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>213.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="not ABC and">
+    <products>
+      <product name="PL_Product_Condition_214">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>214.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="and">
+    <products>
+      <product name="PL_Product_Condition_215">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>215.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="not">
+    <products>
+      <product name="PL_Product_Condition_216">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>216.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="    PL_Opt_Condition_1   PL_Opt_RT_1    ">
+    <products>
+      <product name="PL_Product_Condition_217">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>217.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="     or (    PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3    )     ">
+    <products>
+      <product name="PL_Product_Condition_218">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>218.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="ABC and (not PL_Opt_Condition_1">
+    <products>
+      <product name="PL_Product_Condition_219">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>219.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="(ABC or PL_Opt_RT) or ABC)">
+    <products>
+      <product name="PL_Product_Condition_220">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>220.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_Condition_1 or PL_Opt_RT_2) and not (PL_Opt_Condition_2 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_221">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>221.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="()">
+    <products>
+      <product name="PL_Product_Condition_222">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>222.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition=")(">
+    <products>
+      <product name="PL_Product_Condition_223">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>223.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition=") () (PL_Opt_Condition_1)">
+    <products>
+      <product name="PL_Product_Condition_224">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>224.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition=")PL_Opt_RT_1(">
+    <products>
+      <product name="PL_Product_Condition_225">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>225.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and ()">
+    <products>
+      <product name="PL_Product_Condition_226">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>226.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="BASE or PL_Opt_Condition_1">
+    <products>
+      <product name="PL_Product_Condition_227">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>227.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_BASE and not">
+    <products>
+      <product name="PL_Product_Condition_228">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>228.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="or PL_Opt_BASE">
+    <products>
+      <product name="PL_Product_Condition_229">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>229.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="ABC and )not        ">
+    <products>
+      <product name="PL_Product_Condition_230">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>230.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="and (    PL_Opt_Condition_1 or    )     ">
+    <products>
+      <product name="PL_Product_Condition_231">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>231.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="and (    PL_Opt_Condition_1 or PL_Opt_Condition_2 or     ">
+    <products>
+      <product name="PL_Product_Condition_232">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>232.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="    aNd     BASE     oR     (     NOT     PL_Opt_RT_1     aND     NOt   ">
+    <products>
+      <product name="PL_Product_Condition_233">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>233.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and PL_Opt_Condition_1 ABC">
+    <products>
+      <product name="PL_Product_Condition_234">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>234.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and PL_Opt_Condition_1 PL_Opt_RT_2 ABC">
+    <products>
+      <product name="PL_Product_Condition_235">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>235.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="not PL_Opt_RT_1 PL_Opt_Condition_1 or ABC">
+    <products>
+      <product name="PL_Product_Condition_236">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>236.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 - PL_Opt_Condition_1">
+    <products>
+      <product name="PL_Product_Condition_237">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>233.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="(PL_Opt_RT_1 and PL_Opt_Condition_1) ABC">
+    <products>
+      <product name="PL_Product_Condition_238">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>238.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and (PL_Opt_Condition_1 ABC)">
+    <products>
+      <product name="PL_Product_Condition_239">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>239.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and (PL_Opt_Condition_1 ABC) or">
+    <products>
+      <product name="PL_Product_Condition_240">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>240.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and or not PL_Opt_Condition_1 ABC">
+    <products>
+      <product name="PL_Product_Condition_241">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>241.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 and and and PL_Opt_Condition_1">
+    <products>
+      <product name="PL_Product_Condition_242">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>242.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 not or and PL_Opt_Condition_1">
+    <products>
+      <product name="PL_Product_Condition_243">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>243.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_RT_1 or or and PL_Opt_Condition_1 ABC XYZ PL_Opt_RT_2">
+    <products>
+      <product name="PL_Product_Condition_244">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>244.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="PL_Opt_Condition_1 (PL_Opt_Condition_2)">
+    <products>
+      <product name="PL_Product_Condition_245">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>245.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_5" description="" condition="PL_Opt_RT and PL_Opt_RT_5">
+    <products>
+      <product name="PL_Product_Condition_301">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>301.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_5" description="" condition="PL_Opt_RT or PL_Opt_RT_5">
+    <products>
+      <product name="PL_Product_Condition_302">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>302.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Global_Test" description="" condition="(PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_303">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>303.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Global_Test" description="" condition="not (PL_Opt_Condition_1 or PL_Opt_Condition_2 or PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_304">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>304.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="BASE" description="Base House" condition="PL_Opt_RT_2 and not PL_Opt_Condition_1 and PL_Opt_Condition_2 or PL_Opt_Condition_3">
+    <products>
+      <product name="PL_Product_Condition_305">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>305.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="BASE" description="Base House" condition="(PL_Opt_RT_2 and not PL_Opt_Condition_1 and PL_Opt_Condition_2 or not PL_Opt_Condition_3)">
+    <products>
+      <product name="PL_Product_Condition_306">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>306.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+</plusminus>

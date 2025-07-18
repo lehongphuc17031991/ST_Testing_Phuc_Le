@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="Planswift">
+  <housecode>1703</housecode>
+  <housename>Tommy_House_RT_DO_NOT_MODIFY</housename>
+  <communitycode></communitycode>
+  <communityname>Default House Quantities</communityname>
+  <series>Diamond</series>
+  <option code="PL_Opt_RT_2" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Child_4">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>13.0000</product_qnt>
+        <product_use>UseAM</product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+        <parameters>
+          <parameter id="LEVEL" value="2nd" />
+        </parameters>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT" description="" condition="">
+    <products>
+      <product name="PL_Product_Sand">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>66.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer="Batta Training">Round</style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+</plusminus>

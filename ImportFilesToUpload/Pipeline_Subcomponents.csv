@@ -1,0 +1,58 @@
+Product Building Phase,Product Name,Product Style,Product Code,Product Description,BP Assignment Type,Subcomponent Building Phase,Subcomponent Product Name,Subcomponent Product Style,Subcomponent Product Code,Subcomponent Product Description,Multiplier,Calculation,Use,Swap Product,Option Number,Option Name,Disabled
+All Building Phases,PL_Product_8_BOM_BPR_Parent,,,Des 1,BOM Building Phase Rule,29,PL_Product_9_BOM_BPR_Child_1,,,Des 1,1,PL + 10,NONE,No,NONE,NONE,No
+All Building Phases,PL_Product_8_Assume_BP_Parent,,,Des 1,Assume Product Building Phase,,PL_Product_9_Assume_BP_Child_1,,,Des 1,1,PL + 10,NONE,No,NONE,NONE,No
+24,PL_Product_Sand,,,,Static Building Phase,25,PL_Product_Cabinet,,,,1,PL + 10,NONE,No,4564,PL_Opt_Sub_1_Layer,No
+25,PL_Product_Sand,1000,,,Static Building Phase,24,PL_Product_Sand_With_Calculation_In_Garage_Subcomponent,,,,1,PL * 2 + 10,NONE,No,4646,PL_Opt_RT,No
+All Building Phases,PL_Product_Sand_With_Calculation_In_Garage_Subcomponent,,,,Static Building Phase,24,PL_Product_Sand_Subcomponent_Layer_2_Waste_Round,,,,1,,NONE,No,4647,PL_Opt_RT_2,No
+25,PL_Product_BLR_TC_3_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_3_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_8_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_8_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_8_A_Act_Sub_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_8_A_Act_Sub_SS_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_10_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_10_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_10_A_Act_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_10_A_Act_Sub_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_12_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_12_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_13_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_13_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_13_A_Act_Sub_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_13_A_Act_Sub_SS_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_13_A_Act_Sub_SS_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_13_A_Act_Sub_SS_Sub_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_15_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_15_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_15_A_Act_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_15_A_Act_Sub_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_15_A_Act_Sub_Act_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_15_A_Act_Sub_Act_Sub_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_18_A_Act_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_18_A_Act_SS_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_18_A_Act_SS_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_18_A_Act_SS_Sub_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_23_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_23_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_24_A_Con_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_24_A_Con_SS_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_26_A_Act_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_26_A_Act_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_27_A_Act_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_27_A_Act_SS_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_28_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_28_A_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_31_A_Act_2,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_31_A_Act_2_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_35_A_Act_Act_1,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_35_A_Act_Act_Sub_1,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_35_A_Act_SS_2,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_35_A_Act_SS_Sub_2,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_37_A_Act_Act_1,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_37_A_Act_Act_Sub_1,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_38_A_Con_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_38_A_Con_SS_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_43_A_Act_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_43_A_Act_Act_Sub,,,,1,PL * 2 + 10,NONE,No,,,No
+25,PL_Product_BLR_TC_44_A_Con_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_44_A_Con_SS_Sub,,,,1,,NONE,No,,,No
+24,PL_Product_BLR_TC_90_A_Act,PL_Style,,,Static Building Phase,24,PL_Product_BLR_TC_90_A_Act_Sub,,,,1,,NONE,No,,,No
+24,PL_Product_BLR_TC_90_A_Act_Sub_SS,PL_Style,,,Static Building Phase,24,PL_Product_BLR_TC_90_A_Act_Sub_SS_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_92_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_92_A_Act_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_94_A_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_94_A_Act_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_95_A_Act,PL_Style_2,,,Static Building Phase,25,PL_Product_BLR_TC_95_A_Act_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_95_A_Act_Sub_SS,PL_Style_2,,,Static Building Phase,25,PL_Product_BLR_TC_95_A_Act_Sub_SS_Sub,,,,1,,NONE,No,,,No
+24,PL_Product_BLR_TC_97_A_Act,PL_Style_2,,,Static Building Phase,24,PL_Product_BLR_TC_97_A_Act_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_97_A_Act_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_97_A_Act_Sub_Act_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_103_A_Act_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_103_A_Act_SS_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_103_A_Act_SS_Sub_Act,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_103_A_Act_SS_Sub_Act_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_109_A_Con_SS,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_109_A_Con_SS_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_112_A_Con_3,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_112_A_Con_3_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_112_A_Act_Act_3,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_112_A_Act_Act_3_Sub,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_113_A_Act_SS_2,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_113_A_Act_SS_Sub_2,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_113_A_Con_3,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_113_A_Con_Sub_3,,,,1,,NONE,No,,,No
+25,PL_Product_BLR_TC_113_A_Con_Sub_SS_3,PL_Style,,,Static Building Phase,25,PL_Product_BLR_TC_113_A_Con_Sub_SS_Sub_3,,,,1,,NONE,No,,,No
+All Building Phases,PL_Product_Condition_125,,,,Static Building Phase,24,PL_Product_Condition_125_Subcomponent,,,,1,,NONE,No,NONE,NONE,No
+25,PL_Product_Sand_KM_2_Layers,1000,,,Static Building Phase,24,PL_Product_Sand_Subcomponent_Layer_1,,,,1,PL * 2 + 10,NONE,No,4644,PL_Opt_RT_3,No
+24,PL_Product_Sand_Subcomponent_Layer_1,,,,Static Building Phase,24,PL_Product_Sand_Subcomponent_Layer_2_Waste_Round,,,,2,,NONE,No,4648,PL_Opt_RT_4,No
+All Building Phases,PL_Product_Belong_Child_817_KM_SpecSet_To,,,,Static Building Phase,24,PL_Product_Belong_Child_817_KM_Subcomponent_To,,,,1,,NONE,No,NONE,NONE,No
+28,PL_Product_BBPR_Original_Product_Static_Type,PL_Style,,,Static Building Phase,29,PL_Product_BBPR_Sub_1_BP_Keep_29_Static_Type,,,,1,,NONE,No,NONE,NONE,No
+28,PL_Product_BBPR_Original_Product_Static_Type,PL_Style,,,Static Building Phase,29,PL_Product_BBPR_Sub_2_BP_Change_To_30_Static_Type,,,,1,,NONE,No,NONE,NONE,No
+All Building Phases,PL_Product_BBPR_Original_Product_Static_Type,,,,Static Building Phase,29,PL_Product_BBPR_Sub_1_BP_Keep_29_Static_Type,,,,1,,NONE,No,NONE,NONE,No
+All Building Phases,PL_Product_BBPR_Original_Product_Static_Type,,,,Static Building Phase,29,PL_Product_BBPR_Sub_2_BP_Change_To_30_Static_Type,,,,1,,NONE,No,NONE,NONE,No
+All Building Phases,PL_Product_BBPR_Original_Product_BOM_Type,,,,BOM Building Phase Rule,29,PL_Product_BBPR_Sub_1_BP_Keep_29_BOM_Type,,,,1,,NONE,No,NONE,NONE,No
+All Building Phases,PL_Product_BBPR_Original_Product_BOM_Type,,,,BOM Building Phase Rule,29,PL_Product_BBPR_Sub_2_BP_Change_To_30_BOM_Type,,,,1,,NONE,No,NONE,NONE,No

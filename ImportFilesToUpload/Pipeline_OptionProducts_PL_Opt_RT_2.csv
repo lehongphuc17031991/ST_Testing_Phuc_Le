@@ -1,0 +1,4 @@
+Option Number,Option Name,Option Description,Building Phase Code,Product Name,Product Code,Product Description,Quantity,Use,Dependent Condition,Unit,Source,Style Name
+4647,PL_Opt_RT_2,,24,PL_Product_Belong_Child_3_House_Opt_Comm_Qty,-----,-----,46,-----,,,Pipeline,PL_Style
+4647,PL_Opt_RT_2,,24,PL_Product_Cement22,,12345,11,-----,,-----,Planswift,DEFAULT
+4647,PL_Opt_RT_2,,24,PL_Product_Cement22,,12345,12,-----,,-----,Planswift,PL_Style

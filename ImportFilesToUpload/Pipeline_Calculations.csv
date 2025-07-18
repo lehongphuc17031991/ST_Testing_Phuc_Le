@@ -1,0 +1,7 @@
+Description,Calculation
+PL + 10,QTY + 10
+PL * 2 + 10,QTY * 2 + 10
+PL * 2,QTY * 2
+PL + 1,QTY + 1
+PL + 2,QTY + 2
+PL + 3,QTY + 3

@@ -1,0 +1,14 @@
+Plan Name,Plan Number,Series,Base Price,Basement SQF,First SQF,Second SQF,Heated SQF,Total SQF,Style,Stories,Bedrooms,Bathrooms,Garage,Description,Sales House Name
+Tommy_House_BLR_17_DO_NOT_MODIFY,1717,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_BLR_51_DO_NOT_MODIFY,1751,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_BLR_58_DO_NOT_MODIFY,1758,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_BLR_59_DO_NOT_MODIFY,1759,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_BLR_106_DO_NOT_MODIFY,1106,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_BLR_107_DO_NOT_MODIFY,1107,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_RT_DO_NOT_MODIFY,1703,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_RT_2_DO_NOT_MODIFY,1704,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_2_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_Condition,1705,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_Condition,Tommy_House_Condition
+Tommy_House_Condition_Has_Error,1803,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_Condition_Has_Error,Tommy_House_Condition_Has_Error
+Tommy_House_Refer,1903,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY,Tommy_House_RT
+Tommy_House_RT_DO_NOT_MODIFY,1703,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_RT_DO_NOT_MODIFY_Multiple_Opts,Tommy_House_RT_DO_NOT_MODIFY_Multiple_Opts
+Tommy_House_Multiple_Opts,1721,Diamond,250.75,6,7,2,4,18,Single Family,0,3,2,1 Car,Tommy_House_Multiple_Opts,Tommy_House_Multiple_Opts

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<plusminus version="1.0.2" xmlns="urn:Pipeline-PlusMinus.xsd" source="Pipeline">
+  <housecode>1703</housecode>
+  <housename>Tommy_House_RT_DO_NOT_MODIFY</housename>
+  <communitycode></communitycode>
+  <communityname>Default House Quantities</communityname>
+  <series>Diamond</series>
+  <option code="PL_Opt_Replacement_Mapping_From" description="" condition="PL_Opt_Bid_Bedroom">
+    <products>
+      <product name="PL_Product_For_Opt_Replacement_Mapping_1_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>101.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_For_Opt_Replacement_Mapping_2_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>102.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Replacement_Mapping_To" description="" condition="">
+    <products>
+      <product name="PL_Product_For_Opt_Replacement_Mapping_1_To">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>105.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_For_Opt_Replacement_Mapping_2_To">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>106.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Additive_Mapping_From" description="" condition="">
+    <products>
+      <product name="PL_Product_For_Opt_Additive_Mapping_1_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>11.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_For_Opt_Additive_Mapping_2_From">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>12.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_Additive_Mapping_To" description="" condition="">
+    <products>
+      <product name="PL_Product_For_Opt_Additive_Mapping_1_To">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>15.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+      <product name="PL_Product_For_Opt_Additive_Mapping_2_To">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>16.0000</product_qnt>
+        <product_use></product_use>
+        <product_unit></product_unit>
+        <product_waste>1.10</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+      </product>
+    </products>
+  </option>
+  <option code="PL_Opt_RT_2" description="" condition="">
+    <products>
+      <product name="PL_Product_Belong_Child_4">
+        <product_code></product_code>
+        <product_description></product_description>
+        <product_qnt>50.0000</product_qnt>
+        <product_use>UseAM</product_use>
+        <product_unit></product_unit>
+        <product_waste>0.00</product_waste>
+        <style manufacturer=""></style>
+        <phase_code>24</phase_code>
+        <group_code>PL_BuildGrp_Interior</group_code>
+        <parameters>
+          <parameter id="LEVEL" value="5th" />
+        </parameters>
+      </product>
+    </products>
+  </option>
+</plusminus>

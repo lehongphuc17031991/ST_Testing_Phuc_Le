@@ -1,0 +1,61 @@
+Rule Name,Rule Description,Sort Order,Pre-Product Assembly Execution,During Product Assembly Execution,Post Product Assembly Execution
+PL_BLR_TC_1_Pre,,1,Yes,No,No
+PL_BLR_TC_2_During,,1,No,Yes,No
+PL_BLR_TC_3_Post_Sub,,1,No,No,Yes
+PL_BLR_TC_4_During (fail)_1,,1,No,Yes,No
+PL_BLR_TC_4_Post_2,,1,No,No,Yes
+PL_BLR_TC_5_Pre_1,,1,Yes,No,No
+PL_BLR_TC_5_During_2,,1,No,Yes,No
+PL_BLR_TC_6_Pre_1,,1,Yes,No,No
+PL_BLR_TC_6_During (fail)_2,,1,No,Yes,No
+PL_BLR_TC_7_Pre_1,,1,Yes,No,No
+PL_BLR_TC_7_During (fail)_2_Spec Sets,,1,No,Yes,No
+PL_BLR_TC_8_Pre_1_Sub,,1,Yes,No,No
+PL_BLR_TC_8_During (fail)_2_Spec Sets_Sub,,1,No,Yes,No
+PL_BLR_TC_9_During_1,,1,No,Yes,No
+PL_BLR_TC_9_Post_2,,1,No,No,Yes
+PL_BLR_TC_10_During_1_Sub,,1,No,Yes,No
+PL_BLR_TC_10_Post_2_Sub,,1,No,No,Yes
+PL_BLR_TC_11_Pre_1,,1,Yes,No,No
+PL_BLR_TC_11_During (fail)_2,,1,No,Yes,No
+PL_BLR_TC_11_Post_3,,1,No,No,Yes
+PL_BLR_TC_12_Pre_1,,1,Yes,No,No
+PL_BLR_TC_12_During (fail)_2_Sub,,1,No,Yes,No
+PL_BLR_TC_12_Post_3,,1,No,No,Yes
+PL_BLR_TC_13_Pre_1_Sub,,1,Yes,No,No
+PL_BLR_TC_13_During (fail)_2_Spec Sets_Sub,,1,No,Yes,No
+PL_BLR_TC_13_Post_3_Sub,,1,No,No,Yes
+PL_BLR_TC_14_Pre_1,,1,Yes,No,No
+PL_BLR_TC_14_During_2,,1,No,Yes,No
+PL_BLR_TC_14_Post_3,,1,No,No,Yes
+PL_BLR_TC_15_Pre_1_Sub,,1,Yes,No,No
+PL_BLR_TC_15_During_2_Sub,,1,No,Yes,No
+PL_BLR_TC_15_Post_3_Sub,,1,No,No,Yes
+PL_BLR_TC_17_Post_BOM_Header,,1,Yes,Yes,Yes
+PL_BLR_TC_16_All_3_Mode,,1,Yes,Yes,Yes
+PL_BLR_TC_18_Pre,,1,Yes,No,No
+PL_BLR_TC_18_SpecSets_Sub_During_Sub,,1,No,Yes,No
+PL_BLR_TC_18_Post,,1,No,No,Yes
+PL_BLR_TC_19_During_1,,2,No,Yes,No
+PL_BLR_TC_19_During_2,,1,No,Yes,No
+PL_BLR_TC_19_During_3,,3,No,Yes,No
+PL_BLR_TC_61_Pre_1,,3,Yes,No,No
+PL_BLR_TC_61_During_2,,2,No,Yes,No
+PL_BLR_TC_61_Post_3,,2,No,No,Yes
+PL_BLR_TC_62_During_1,,2,No,Yes,No
+PL_BLR_TC_62_During_2,,1,No,Yes,No
+PL_BLR_TC_62_During_3,,3,No,Yes,No
+PL_BLR_TC_63_During_1,,2,No,Yes,No
+PL_BLR_TC_63_During_2,,1,No,Yes,No
+PL_BLR_TC_63_During_3,,3,No,Yes,No
+PL_BLR_Condition,,1,No,Yes,No
+PL_BLR_TC_51_Post_1,,1,No,No,Yes
+PL_BLR_TC_52_During_1,,1,No,Yes,No
+PL_BLR_TC_53_Pre_1,,1,Yes,No,No
+PL_BLR_TC_54_Pre_1,,1,Yes,No,No
+PL_BLR_TC_55_Post_1,,1,No,No,Yes
+PL_BLR_TC_56_Post_1,,1,No,No,Yes
+PL_BLR_TC_57_Post_Custom_Opt,,1,No,No,Yes
+PL_BLR_TC_58_Post_BOM_Header,,1,No,No,Yes
+PL_BLR_TC_59_Post_BOM_Header,,1,Yes,No,No
+PL_BLR_TC_60_During_1,,1,No,Yes,No
