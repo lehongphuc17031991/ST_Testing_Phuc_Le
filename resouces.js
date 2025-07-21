@@ -1,7 +1,7 @@
 // Common path to store files
 const URLLink = "https://www.linkedin.com/jobs";
-const email = "pokeuser180890@gmail.com";
-const password = "sieunhan05";
+const email = "";
+const password = "";
 const signInButton = `//button[@data-id="sign-in-form__submit-btn"]`;
 const searchJobText = "IT";
 
